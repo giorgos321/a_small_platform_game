@@ -1,3 +1,4 @@
+![alt text](https://my-bio-8729a.web.app/Screenshot%20(18).png)
 # Project Title
 
 This is a small platform game using Python 3.7 and Pygame library
@@ -30,4 +31,3 @@ If you are using powershell:
 py main.py
 ```
 
-![alt text](https://my-bio-8729a.web.app/Screenshot%20(18).png)
