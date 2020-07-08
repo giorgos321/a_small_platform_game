@@ -30,3 +30,4 @@ If you are using powershell:
 py main.py
 ```
 
+![alt text](https://my-bio-8729a.web.app/Screenshot%20(18).png)
