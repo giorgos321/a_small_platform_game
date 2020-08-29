@@ -1,5 +1,5 @@
 ![alt text](https://my-bio-8729a.web.app/Screenshot%20(18).png)
-# Project Title
+# A small platform Game 
 
 This is a small platform game using Python 3.7 and Pygame library
 
